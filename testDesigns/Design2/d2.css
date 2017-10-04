@@ -1,0 +1,13 @@
+.navbarCustom{
+	 position: fixed;
+	 z-index: 1;
+}
+.mainContent{
+	margin-top: 8%;
+}
+#myCarousel {
+	margin-bottom: 3%;
+}
+.carousel-inner{
+	max-height: 40vh !important;
+}
